@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Training Servicenow" max_length="40" name="x_223630_training_sc" type="collection"/>
+    <element extends="task" label="Training Servicenow" max_length="40" name="x_223630_training_sc" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="APPL" max_length="15" name="appl" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="BI" max_length="15" name="bi" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="MM" max_length="15" name="mm" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="MN" max_length="15" name="mn" type="decimal"/>
+    </element>
 </database>
