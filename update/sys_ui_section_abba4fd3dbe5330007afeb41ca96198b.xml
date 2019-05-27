@@ -4,13 +4,13 @@
             <element>bi</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
-            <sys_id>fafac317dbe5330007afeb41ca961915</sys_id>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>f51ca317db69330007afeb41ca9619c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>appl</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
-            <sys_id>f2fac317dbe5330007afeb41ca961916</sys_id>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>bd1ca317db69330007afeb41ca9619c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
-            <sys_id>76fac317dbe5330007afeb41ca961916</sys_id>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>311ca317db69330007afeb41ca9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>mm</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
-            <sys_id>f6fac317dbe5330007afeb41ca961916</sys_id>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>b11ca317db69330007afeb41ca9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,27 @@
             <element>mn</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
-            <sys_id>7afac317dbe5330007afeb41ca961916</sys_id>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>351ca317db69330007afeb41ca9619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-26 23:53:13</sys_created_on>
+            <sys_id>b51ca317db69330007afeb41ca9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-26 23:53:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
