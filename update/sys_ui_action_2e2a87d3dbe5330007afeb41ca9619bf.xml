@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>sysverb_resequence</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition/>
+        <form_action>false</form_action>
+        <form_button>false</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>true</list_action>
+        <list_banner_button>true</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Resequence Priorities</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[var arr = ['bi', 'mm', 'mn', 'appl'];
+gs.addInfoMessage("UI Action");
+for(var i=0; i<arr.length; i++){
+	resequence(arr[i]);
+}
+
+function resequence(priorityField){
+	gs.addInfoMessage("Function");
+	var priorityGr = new GlideRecord('x_223630_training_sc');
+	priorityGr.orderBy(priorityField);
+	priorityGr.query();
+	
+	var count = 0;
+	while(priorityGr.next()){
+		if(!priorityGr.getValue(priorityField)){
+			continue;
+		}
+		
+		count = count+1;
+		gs.addInfoMessage(count);
+		priorityGr.setValue(priorityField, count);
+		priorityGr.setWorkflow(false);
+		priorityGr.autoSysFields(false);
+		priorityGr.update();
+		
+	}
+	
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-26 21:41:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e2a87d3dbe5330007afeb41ca9619bf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Resequence Priorities</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Training" source="x_223630_training">88ece61bdb65330007afeb41ca9619fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Training">88ece61bdb65330007afeb41ca9619fd</sys_scope>
+        <sys_update_name>sys_ui_action_2e2a87d3dbe5330007afeb41ca9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-26 21:52:50</sys_updated_on>
+        <table>x_223630_training_sc</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

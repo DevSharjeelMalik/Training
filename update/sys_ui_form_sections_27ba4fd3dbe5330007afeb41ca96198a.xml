@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="27ba4fd3dbe5330007afeb41ca96198a" sys_domain="global" table="x_223630_training_sc" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-26 21:27:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63ba4fd3dbe5330007afeb41ca96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_223630_training_sc" name="x_223630_training_sc" sys_domain="global" view="Default view">27ba4fd3dbe5330007afeb41ca96198a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_223630_training_sc" sys_domain="global" view="Default view">ac2d269bdb65330007afeb41ca96192f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-26 21:27:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-26 21:27:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>afba4fd3dbe5330007afeb41ca96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_223630_training_sc" name="x_223630_training_sc" sys_domain="global" view="Default view">27ba4fd3dbe5330007afeb41ca96198a</sys_ui_form>
+            <sys_ui_section caption="Prioritization" display_value="Prioritization" name="x_223630_training_sc" sys_domain="global" view="Default view">abba4fd3dbe5330007afeb41ca96198b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-26 21:27:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_223630_training_sc</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-26 21:27:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27ba4fd3dbe5330007afeb41ca96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_223630_training_sc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Training" source="x_223630_training">88ece61bdb65330007afeb41ca9619fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training">88ece61bdb65330007afeb41ca9619fd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_27ba4fd3dbe5330007afeb41ca96198a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-26 21:27:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

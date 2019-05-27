@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Training Servicenow" language="en" table="x_223630_training_sc">
+    <sys_documentation element="appl" label="APPL" language="en" table="x_223630_training_sc">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>appl</element>
             <help/>
             <hint/>
-            <label>Training Servicenow</label>
+            <label>APPL</label>
             <language>en</language>
             <name>x_223630_training_sc</name>
-            <plural>Training Servicenows</plural>
+            <plural>APPLs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-26 19:17:03</sys_created_on>
-            <sys_id>68f42bdbdb29330007afeb41ca9619de</sys_id>
+            <sys_created_on>2019-05-26 21:28:34</sys_created_on>
+            <sys_id>e0f42bdbdb29330007afeb41ca9619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Training Servicenow</sys_name>
+            <sys_name>APPL</sys_name>
             <sys_package display_value="Training" source="x_223630_training">88ece61bdb65330007afeb41ca9619fd</sys_package>
             <sys_policy/>
             <sys_scope display_value="Training">88ece61bdb65330007afeb41ca9619fd</sys_scope>
-            <sys_update_name>sys_documentation_x_223630_training_sc__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_223630_training_sc_appl_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-26 19:17:03</sys_updated_on>
+            <sys_updated_on>2019-05-26 21:28:34</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
