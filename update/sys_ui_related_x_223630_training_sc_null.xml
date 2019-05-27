@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_223630_training_sc" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Training Servicenow - Default view" name="x_223630_training_sc" related_list="NULL" sys_domain="global" view="Default view">e3f356efdb21730007afeb41ca9619b2</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-27 12:06:49</sys_created_on>
+            <sys_id>6ff356efdb21730007afeb41ca9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-27 12:06:49</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Training Servicenow - Default view</calculated_name>
+            <filter/>
+            <name>x_223630_training_sc</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-27 12:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3f356efdb21730007afeb41ca9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Training Servicenow - Default view</sys_name>
+            <sys_package display_value="Training" source="x_223630_training">88ece61bdb65330007afeb41ca9619fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training">88ece61bdb65330007afeb41ca9619fd</sys_scope>
+            <sys_update_name>sys_ui_related_x_223630_training_sc_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-27 12:06:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
